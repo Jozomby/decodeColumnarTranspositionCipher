@@ -1,4 +1,3 @@
-const groupBy = require('lodash/groupBy')
 const FILLER_CHARACTER = 'Q'
 
 // These could be provided as command line variables, but for this simple application, this was quicker and easier

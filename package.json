@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "lodash": "^4.17.10"
   },
   "name": "decodecolumnartranspositioncipher",
   "version": "1.0.0",

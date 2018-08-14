@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "name": "decodecolumnartranspositioncipher",
+  "version": "1.0.0",
+  "description": "Quick-and-dirty code to assist in decoding Columnar Transposition Cipher text",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Lee",
+  "license": "ISC"
+}
